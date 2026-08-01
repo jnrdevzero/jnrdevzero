@@ -35,7 +35,7 @@ My work sits where software meets real infrastructure: platforms that people pay
 - Internet hotspot platform with **Mobile Money** integration
 - **RADIUS** authentication and **MikroTik** network solutions
 - AI-powered applications and developer tools
-- **Explortern** — AI-assisted internship platform
+- **Explortern**: AI-assisted internship platform
 
 ---
 
