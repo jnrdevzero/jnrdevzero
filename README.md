@@ -18,7 +18,7 @@
 
 ## About Me
 
-I build products end to end — idea, design, development, deployment — across frontend, backend, cloud infrastructure, networking, and AI integrations.
+I build products end to end: idea, design, development, deployment across frontend, backend, cloud infrastructure, networking, and AI integrations.
 
 My work sits where software meets real infrastructure: platforms that people pay for with Mobile Money, authenticate against RADIUS servers, and use every day to get online. I care about intuitive interfaces, systems that stay up, and shipping things that solve problems people actually have.
 
@@ -170,9 +170,9 @@ AI-powered internship platform connecting students with employers.
 
 ## Let's Connect
 
-- **Email** — [awatsopjason@gmail.com](mailto:awatsopjason@gmail.com)
-- **LinkedIn** — [linkedin.com/in/awatsop-jason](https://www.linkedin.com/in/awatsop-jason)
-- **Location** — Cameroon · Open to remote opportunities
+- **Email**: [awatsopjason@gmail.com](mailto:awatsopjason@gmail.com)
+- **LinkedIn**: [linkedin.com/in/awatsop-jason](https://www.linkedin.com/in/awatsop-jason)
+- **Location**: Cameroon · Open to remote opportunities
 
 ---
 
