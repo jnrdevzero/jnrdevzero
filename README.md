@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Awatsop Jason 👋</h1>
+<h1 align="center">Awatsop Jason</h1>
 
 <p align="center">
   <b>Product Software Engineer</b> · Frontend-focused, full-stack capable<br>
-  Building scalable software, AI-powered applications, and internet infrastructure from Cameroon 🇨🇲
+  Building scalable software, AI-powered applications, and internet infrastructure from Cameroon
 </p>
 
 <p align="center">
@@ -10,47 +10,44 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:awatsopjason@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jnrdevzero&style=for-the-badge&color=1F3864" alt="Profile views">
 </p>
 
 ---
 
 ## About Me
 
-I build products end to end — **idea → design → development → deployment** — across frontend, backend, cloud infrastructure, networking, and AI integrations.
+I build products end to end — idea, design, development, deployment — across frontend, backend, cloud infrastructure, networking, and AI integrations.
 
 My work sits where software meets real infrastructure: platforms that people pay for with Mobile Money, authenticate against RADIUS servers, and use every day to get online. I care about intuitive interfaces, systems that stay up, and shipping things that solve problems people actually have.
 
-- 🔭 Currently building **MEGASpacex**, an internet access platform serving ~2,000 active users
-- 🌱 Deepening my work in **AI-assisted product engineering** and **developer experience**
-- 💬 Happy to talk about React/Next.js architecture, Mobile Money integrations, or MikroTik + FreeRADIUS
-- 🗣️ Fluent in **English** and **French**
+- Currently building **MEGASpacex**, an internet access platform serving ~2,000 active users
+- Deepening my work in **AI-assisted product engineering** and **developer experience**
+- Happy to talk about React/Next.js architecture, Mobile Money integrations, or MikroTik + FreeRADIUS
+- Fluent in **English** and **French**
 
 ---
 
-## 🚀 What I'm Currently Building
+## What I'm Currently Building
 
-| | |
-|---|---|
-| 🌐 | Co-Founder & Software Engineer at **MEGASpacex** |
-| 💳 | Internet hotspot platform with **Mobile Money** integration |
-| 📡 | **RADIUS** authentication & **MikroTik** network solutions |
-| 🤖 | AI-powered applications and developer tools |
-| 🎓 | **Explortern** — AI-assisted internship platform |
+- Co-Founder & Software Engineer at **MEGASpacex**
+- Internet hotspot platform with **Mobile Money** integration
+- **RADIUS** authentication and **MikroTik** network solutions
+- AI-powered applications and developer tools
+- **Explortern** — AI-assisted internship platform
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
-### 🌍 MEGASpacex · *Private Repository*
+### MEGASpacex · *Private Repository*
 
 Production hotspot management platform serving approximately **2,000+ active users** across **15+ locations**.
 
 - Voucher-based internet access with automated provisioning
 - MTN Mobile Money integration with asynchronous webhooks and payment reconciliation
-- MikroTik + FreeRADIUS authentication and session management
+- MikroTik and FreeRADIUS authentication and session management
 - Analytics dashboards and administrative tooling
 
 <p>
@@ -64,7 +61,7 @@ Production hotspot management platform serving approximately **2,000+ active use
 
 ---
 
-### ☁️ ClearSkyConnection · *Private Repository*
+### ClearSkyConnection · *Private Repository*
 
 End-to-end hotspot management platform built for a client, designed and delivered solo.
 
@@ -84,7 +81,7 @@ End-to-end hotspot management platform built for a client, designed and delivere
 
 ---
 
-### 🎓 Explortern · *In Active Development*
+### Explortern · *In Active Development*
 
 AI-powered internship platform connecting students with employers.
 
@@ -104,7 +101,7 @@ AI-powered internship platform connecting students with employers.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -164,27 +161,18 @@ AI-powered internship platform connecting students with employers.
 
 ---
 
-## 📈 What I Enjoy Working On
+## What I Enjoy Working On
 
 `Product Engineering` · `Frontend Development` · `Full-Stack Applications` · `System Design`
 `Performance Optimization` · `Developer Experience` · `AI Applications` · `Cloud Infrastructure`
 
 ---
 
-## 📊 GitHub Stats
+## Let's Connect
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jnrdevzero&show_icons=true&hide_border=true&title_color=1F3864&icon_color=1F3864&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnrdevzero&layout=compact&hide_border=true&title_color=1F3864&langs_count=8">
-</p>
-
----
-
-## 📫 Let's Connect
-
-- 📧 **Email** — [awatsopjason@gmail.com](mailto:awatsopjason@gmail.com)
-- 💼 **LinkedIn** — [linkedin.com/in/awatsop-jason](https://www.linkedin.com/in/awatsop-jason)
-- 📍 **Location** — Cameroon · Open to remote opportunities
+- **Email** — [awatsopjason@gmail.com](mailto:awatsopjason@gmail.com)
+- **LinkedIn** — [linkedin.com/in/awatsop-jason](https://www.linkedin.com/in/awatsop-jason)
+- **Location** — Cameroon · Open to remote opportunities
 
 ---
 
